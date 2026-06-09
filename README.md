@@ -196,7 +196,7 @@ AWS Config re-evaluated the resource and confirmed the bucket returned to a comp
 
 All screenshots are here:
 
-🔗 [Google Slides](https://docs.google.com/presentation/d/123YJL2IIDYIKmkMBw4SAt7TUgnfwgCJouyVXzfxWrPY/edit?usp=sharing)
+🔗 [Google Slides](https://docs.google.com/presentation/d/1Rt1JE9BAPBYtq3Vxxezr9V4pXTTSMfVXDFVMoJ67LEg/edit?usp=sharing)
 
 > Note: Sensitive account information was blurred for security purposes before publication.
 
